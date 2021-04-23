@@ -3,8 +3,8 @@
 "clube":{
 "codcli":"0009",
 "nome":"CAJUBA COUNTRY CLUB",
-"pictureUrl":"http://qualitysys.com.br/api/app/mackenzie/logo_app.png",
-"backgroundUrl":"http://qualitysys.com.br/api/app/mackenzie/fundo_app.png"
+"pictureUrl":"http://boleto.cajuba.org.br:8080/temp/logo_app.png",
+"backgroundUrl":"http://boleto.cajuba.org.br:8080/temp/fundo_app.png"
 
 }
 }
